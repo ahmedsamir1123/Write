@@ -18,11 +18,11 @@ export class ApiFunctionsService {
   reborturl = "http://localhost/NWP/report.php"
   loginurl="http://localhost/test/login.php"
   registerUrl="http://localhost/NWP/register.php"
-  feedbackurl="http://localhost/NWP/clerk.php"
+  feedbackurl="https://writemate.000webhostapp.com/clerk.php"
   clerkUrl= "http://localhost/NWP/feedback.php"
   editreborturl = "http://localhost/NWP/editReport.php"
   banuserurl="http://localhost/NWP/statue.php"
-  addclerkurl="http://localhost/NWP/addclerk.php"
+  addclerkurl="https://writemate.000webhostapp.com/addclerk.php"
   activeuserurl="http://localhost/NWP/sactive.php"
   temurl = "http://localhost/NWP/tem.php"
 
